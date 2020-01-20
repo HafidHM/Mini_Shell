@@ -1,0 +1,10 @@
+#
+# test02.txt - Tester des commandes simples sans"<" ">" "|" ">>"et sans #              paramètres 
+#
+dir
+ls
+echo 
+clear
+exit
+
+

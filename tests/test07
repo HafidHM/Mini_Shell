@@ -1,0 +1,5 @@
+#
+# test07.txt - Tester plusieurs commandes avec plusieurs tubes et 
+#		       des redirectons
+#
+ls < f1 | grep a f1 | wc -l > f2

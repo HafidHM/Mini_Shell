@@ -1,0 +1,7 @@
+#
+# test11.txt - Tester les jobs exexute
+#
+./infinitBoucle&
+jobs
+kill -2 (pid du programme infinitBoucle)
+jobs

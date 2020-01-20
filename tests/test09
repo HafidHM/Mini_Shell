@@ -1,0 +1,9 @@
+#
+# test09.txt - Tester la gestion des zombis
+#
+dir
+ls 
+echo
+dir
+clear
+ps

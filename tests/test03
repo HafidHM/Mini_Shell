@@ -1,0 +1,7 @@
+#
+# test03.txt - Tester des commandes simples avec des arguments
+#
+touch f1 f2
+
+
+

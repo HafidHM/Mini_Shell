@@ -1,0 +1,4 @@
+#
+# test08.txt - Tester une commande en arriere plan avec '&'
+#
+./infinitBoucle&

@@ -1,0 +1,4 @@
+#
+# test06.txt - Tester deux commandes avec un tube
+#
+dir | wc -l > f1
